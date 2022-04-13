@@ -2,6 +2,10 @@
 A list of Architectural, Engineering, and Construction Related Blockchain Research and Resources
 
 ## ✒️ Technical Papers
+### [Web3 Foundation](https://web3.foundation/) Publications
+- [Finality Grandpa Gadget](https://research.web3.foundation/en/latest/polkadot/finality.html) A protocol that can be used to provide proveable finality for a blockchain.
+- [BABE](https://research.web3.foundation/en/latest/polkadot/block-production/Babe.html) How Polkadot produces relay chain blocks using Blind Assignment for Blockchain Extension protocol, abbreviated as BABE.
+
 ### General
 - [Adoption of Blockchain Technology through Digital Twins in the Construction Industry 4.0: A PESTELS Approach](https://www.mdpi.com/2075-5309/11/12/670/pdf)
 - [The Innovation Bank](https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) This white paper proposes a novel business method of decentralizing the engineering professions by integrating and capitalizing knowledge assets.
