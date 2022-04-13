@@ -3,13 +3,17 @@ A list of Architectural, Engineering, and Construction Related Blockchain Resear
 
 ## 🛳️ General
 - [Adoption of Blockchain Technology through Digital Twins in the Construction Industry 4.0: A PESTELS Approach](https://www.mdpi.com/2075-5309/11/12/670/pdf)
-- [The Innovation Bank](https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) This white paper proposes a novel business method of decentralizing the engineering professions by integrating and capitalizing knowledge assets.
+- [The Innovation Bank](https://www.coengineers.com/wp-content/uploads/2021/04/R8_IMECE2020-23015.pdf) 
 - [Blockchain Technology: Implications and Opportunities for Professional Engineers](https://www.nspe.org/sites/default/files/resources/pdfs/NSPE-Whitepaper-Blockchain-Technology-2016-final.pdf) - NSPE white paper about blockchain technology and professional licensure.
+- [Decentralizing construction AI applications using blockchain technology](https://www.sciencedirect.com/science/article/abs/pii/S0957417422000471)
+- [A blockchain-based framework for on-site construction environmental monitoring: Proof of concept](https://www.sciencedirect.com/science/article/abs/pii/S0360132322003031)
+- [Blockchain opportunities for construction industry in Hong Kong: a case study of RISC and site diary](https://www.emerald.com/insight/content/doi/10.1108/CI-08-2021-0153/full/html)
 
 ## ✒️ Technical Papers
-### [Web3 Foundation](https://web3.foundation/) Publications
-- [Finality Grandpa Gadget](https://research.web3.foundation/en/latest/polkadot/finality.html) A protocol that can be used to provide proveable finality for a blockchain.
-- [BABE](https://research.web3.foundation/en/latest/polkadot/block-production/Babe.html) How Polkadot produces relay chain blocks using Blind Assignment for Blockchain Extension protocol, abbreviated as BABE.
+### [Web3 Foundation](https://web3.foundation/)
+- [Finality Grandpa Gadget](https://research.web3.foundation/en/latest/polkadot/finality.html) 
+- [BABE](https://research.web3.foundation/en/latest/polkadot/block-production/Babe.html) Blind Assignment for Blockchain Extension (BABE)
+- [](https://www.sciencedirect.com/science/article/abs/pii/S0957417422000471)
 
 ## 🏛️ Governance and Legal
 - [(UN)CORPORATE CRYPTO-GOVERNANCE](http://fordhamlawreview.org/wp-content/uploads/2020/04/Reyes_April_A_13.pdf)
